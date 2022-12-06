@@ -10,10 +10,4 @@ bool carattere (char &a) {
  } else {
      segnalibro = false;
  } return segnalibro;
-
-
-
-
-
-
 }
