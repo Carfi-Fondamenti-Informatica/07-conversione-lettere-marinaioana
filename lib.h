@@ -1,1 +1,1 @@
-
+bool carattere (char &a);
