@@ -1,3 +1,5 @@
+#include "lib.h"
+
 bool carattere (char &a) {
     bool segnalibro = false;
  if  ((a > 64) && (a < 91)){
